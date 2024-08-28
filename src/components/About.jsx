@@ -9,15 +9,13 @@ const About = () => {
                 <div className='my-auto mx-6'>
                     <h2 className='text-4xl font-bold bm-4 primary-color'>About Me</h2>
                         <p className='text-base lg:text-lg'> 
-                        Hello, I'm Luise, a 26-year-old software developer from Berlin, Germany, now based in São Paulo, Brazil. <br/>
-                        I currently work as a Junior Developer at Omni Calculator, where I develop scientific calculators and lead the German content team.<br/>
-                        A major project was creating seven financial calculators, boosting user engagement in Germany by 7% monthly. I also build web applications, 
-                        handling tasks like secure payment gateways, APIs integration, and dynamic content management.<br/>
-                        To enhance my skills, I'm pursuing a B.Sc. in Software Engineering at IU International University of Applied Sciences.<br/>
-                        My technical expertise includes JavaScript, React, Git, SQL, and various frameworks. A notable project was developing a 
-                        web app for a surf school which streamlined the school's lesson scheduling. I am committed to writing secure, best-practice code and continuously learning 
+                        Hello, I’m Luise, a 26-year-old software developer based in São Paulo, Brazil. <br/>
+                        Currently, I work remotely as a Junior Developer at Omni Calculator, where I specialize in developing scientific 
+                        calculators and leading the German content creation team. I also develop responsive web applications and study 
+                        Software Development in the 3rd semester. My expertise includes JavaScript, React, Git, SQL, and modern web frameworks. 
+                        I am committed to writing secure, best-practice code and continuously learning 
                          through courses on Java, web development, and design patterns.<br/>
-                         Outside work, I enjoy surfing in Brazil and spending time with my horse.</p>
+                         Outside work, I enjoy surfing Brazil's best waves and spending time with my horse.</p>
                 </div>
             </div>
 

@@ -5,9 +5,13 @@ import About from "./components/About";
 import Work from "./components/Work";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import React, { useEffect } from 'react';
 
 
 function App() {
+  useEffect(() => {
+    document.title = 'Luise Schwenke';
+  }, []); 
   return (
     <div>
       <Navbar/>

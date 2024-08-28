@@ -8,6 +8,9 @@ import sql from "../asstets/sql.png"
 import postman from "../asstets/postman.png"
 import api from "../asstets/api.png"
 import git from "../asstets/git.png"
+import agile from "../asstets/agile.png"
+import nodejs from "../asstets/nodejs.png"
+import typescript from "../asstets/typescript.png"
 
 const Skills = () => {
     return (
@@ -66,6 +69,21 @@ const Skills = () => {
           <div className='flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]'>
             <img src={javascript} alt='Javascript symbol' width={100} height={100} />
             <p className='mt-2'>JavaScript</p>
+          </div>
+
+          <div className='flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]'>
+            <img src={agile} alt='Javascript symbol' width={100} height={100} />
+            <p className='mt-2'>Agile Development</p>
+          </div>
+
+          <div className='flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]'>
+            <img src={nodejs} alt='Javascript symbol' width={100} height={100} />
+            <p className='mt-2'>Node.js</p>
+          </div>
+
+          <div className='flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]'>
+            <img src={typescript} alt='Javascript symbol' width={100} height={100} />
+            <p className='mt-2'>TypeScript</p>
           </div>
   
         </div>
