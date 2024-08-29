@@ -1,7 +1,7 @@
 import React from 'react'
 import { TypeAnimation } from 'react-type-animation'
 import heroimage from "../asstets/me.png"
-import cv from "../asstets/cv.pdf"
+import cv from "../asstets/cv2.pdf"
 
 
 const Hero = () => {

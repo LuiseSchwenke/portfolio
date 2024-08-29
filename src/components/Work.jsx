@@ -1,5 +1,5 @@
 import React from 'react'
-import onSurf from '../asstets/onSurf.png'
+import onSurf from '../asstets/onescola.png'
 import codes from '../asstets/codes.png'
 import calc from '../asstets/calc.png'
 import pomodoro from '../asstets/pomodoro.png'
@@ -48,7 +48,7 @@ const Work = () => {
             rounded-md flex justify-center items-center h-[200px] bg-cover relative'>
                 <img src={calc} alt='simple calculator'/>
             <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
-                <span className='text-2xl font-bold text-white tracking-wider'>Reaculator with React State Control</span>
+                <span className='text-2xl font-bold text-white tracking-wider'>Calculator with React State Control</span>
                 <div className='pt-8 text-center'>
                     <a href='https://luiseschwenke.github.io/calculator_react/' target='blank'>
                     <button className='tect-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
